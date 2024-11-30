@@ -3,61 +3,61 @@
     {
       "id": "2024-01-01",
       "date": "2024-01-01",
-      "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
+      "imageUrl": "/img/sample1.JPG",
       "message": "夢に向かって前進しよう"
     },
     {
       "id": "2024-01-02",
       "date": "2024-01-02",
-      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "一歩一歩前進しよう"
+      "imageUrl": "/public/img/sample2.JPG",
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-01-03",
       "date": "2024-01-03",
-      "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
+      "imageUrl": "/public/img/sample3.JPG",
       "message": "新しい発見の日になりますように"
     },
     {
       "id": "2024-01-04",
       "date": "2024-01-04",
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "imageUrl": "/public/img/sample4.JPG",
       "message": "感謝の気持ちを忘れずに"
     },
     {
       "id": "2024-01-05",
       "date": "2024-01-05",
-      "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
+      "imageUrl": "/public/img/sample5.JPG",
       "message": "希望を持って進もう"
     },
     {
       "id": "2024-01-06",
       "date": "2024-01-06",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "周りの人々に感謝"
+      "imageUrl": "/public/img/sample1.JPG",
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-01-07",
       "date": "2024-01-07",
-      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "imageUrl": "/public/img/sample1.JPG",
       "message": "チャレンジする勇気を持とう"
     },
     {
       "id": "2024-01-08",
       "date": "2024-01-08",
-      "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
+      "imageUrl": "/public/img/sample1.JPG",
       "message": "今できることを精一杯"
     },
     {
       "id": "2024-01-09",
       "date": "2024-01-09",
-      "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
+      "imageUrl": "/public/img/sample1.JPG",
       "message": "できることから始めよう"
     },
     {
       "id": "2024-01-10",
       "date": "2024-01-10",
-      "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
+      "imageUrl": "/public/img/sample1.JPG",
       "message": "できることから始めよう"
     },
     {
@@ -76,7 +76,7 @@
       "id": "2024-01-13",
       "date": "2024-01-13",
       "imageUrl": "https://images.unsplash.com/photo-1682686580391-615b1f28e5ee",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-01-14",
@@ -94,19 +94,19 @@
       "id": "2024-01-16",
       "date": "2024-01-16",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-01-17",
       "date": "2024-01-17",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-01-18",
       "date": "2024-01-18",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-01-19",
@@ -130,7 +130,7 @@
       "id": "2024-01-22",
       "date": "2024-01-22",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-01-23",
@@ -154,7 +154,7 @@
       "id": "2024-01-26",
       "date": "2024-01-26",
       "imageUrl": "https://images.unsplash.com/photo-1682686580391-615b1f28e5ee",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-01-27",
@@ -166,7 +166,7 @@
       "id": "2024-01-28",
       "date": "2024-01-28",
       "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-01-29",
@@ -220,7 +220,7 @@
       "id": "2024-02-06",
       "date": "2024-02-06",
       "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-02-07",
@@ -232,7 +232,7 @@
       "id": "2024-02-08",
       "date": "2024-02-08",
       "imageUrl": "https://images.unsplash.com/photo-1540206395-68808572332f",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-02-09",
@@ -262,7 +262,7 @@
       "id": "2024-02-13",
       "date": "2024-02-13",
       "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-02-14",
@@ -274,25 +274,25 @@
       "id": "2024-02-15",
       "date": "2024-02-15",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-02-16",
       "date": "2024-02-16",
       "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-02-17",
       "date": "2024-02-17",
       "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-02-18",
       "date": "2024-02-18",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-02-19",
@@ -340,7 +340,7 @@
       "id": "2024-02-26",
       "date": "2024-02-26",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-02-27",
@@ -358,7 +358,7 @@
       "id": "2024-02-29",
       "date": "2024-02-29",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-03-01",
@@ -382,7 +382,7 @@
       "id": "2024-03-04",
       "date": "2024-03-04",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-03-05",
@@ -472,13 +472,13 @@
       "id": "2024-03-19",
       "date": "2024-03-19",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-03-20",
       "date": "2024-03-20",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-03-21",
@@ -514,7 +514,7 @@
       "id": "2024-03-26",
       "date": "2024-03-26",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-03-27",
@@ -544,19 +544,19 @@
       "id": "2024-03-31",
       "date": "2024-03-31",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-04-01",
       "date": "2024-04-01",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-04-02",
       "date": "2024-04-02",
       "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-04-03",
@@ -574,7 +574,7 @@
       "id": "2024-04-05",
       "date": "2024-04-05",
       "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-04-06",
@@ -586,7 +586,7 @@
       "id": "2024-04-07",
       "date": "2024-04-07",
       "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-04-08",
@@ -598,13 +598,13 @@
       "id": "2024-04-09",
       "date": "2024-04-09",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-04-10",
       "date": "2024-04-10",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-04-11",
@@ -628,13 +628,13 @@
       "id": "2024-04-14",
       "date": "2024-04-14",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-04-15",
       "date": "2024-04-15",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-04-16",
@@ -652,7 +652,7 @@
       "id": "2024-04-18",
       "date": "2024-04-18",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-04-19",
@@ -688,19 +688,19 @@
       "id": "2024-04-24",
       "date": "2024-04-24",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-04-25",
       "date": "2024-04-25",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-04-26",
       "date": "2024-04-26",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-04-27",
@@ -754,7 +754,7 @@
       "id": "2024-05-05",
       "date": "2024-05-05",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-05-06",
@@ -772,7 +772,7 @@
       "id": "2024-05-08",
       "date": "2024-05-08",
       "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-05-09",
@@ -784,13 +784,13 @@
       "id": "2024-05-10",
       "date": "2024-05-10",
       "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-05-11",
       "date": "2024-05-11",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-05-12",
@@ -814,7 +814,7 @@
       "id": "2024-05-15",
       "date": "2024-05-15",
       "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-05-16",
@@ -826,7 +826,7 @@
       "id": "2024-05-17",
       "date": "2024-05-17",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-05-18",
@@ -874,7 +874,7 @@
       "id": "2024-05-25",
       "date": "2024-05-25",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-05-26",
@@ -892,13 +892,13 @@
       "id": "2024-05-28",
       "date": "2024-05-28",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-05-29",
       "date": "2024-05-29",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-05-30",
@@ -910,7 +910,7 @@
       "id": "2024-05-31",
       "date": "2024-05-31",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-06-01",
@@ -928,7 +928,7 @@
       "id": "2024-06-03",
       "date": "2024-06-03",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-06-04",
@@ -952,7 +952,7 @@
       "id": "2024-06-07",
       "date": "2024-06-07",
       "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-06-08",
@@ -982,7 +982,7 @@
       "id": "2024-06-12",
       "date": "2024-06-12",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-06-13",
@@ -1018,13 +1018,13 @@
       "id": "2024-06-18",
       "date": "2024-06-18",
       "imageUrl": "https://images.unsplash.com/photo-1540206395-68808572332f",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-06-19",
       "date": "2024-06-19",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-06-20",
@@ -1048,7 +1048,7 @@
       "id": "2024-06-23",
       "date": "2024-06-23",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-06-24",
@@ -1060,7 +1060,7 @@
       "id": "2024-06-25",
       "date": "2024-06-25",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-06-26",
@@ -1084,19 +1084,19 @@
       "id": "2024-06-29",
       "date": "2024-06-29",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-06-30",
       "date": "2024-06-30",
       "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-07-01",
       "date": "2024-07-01",
       "imageUrl": "https://images.unsplash.com/photo-1540206395-68808572332f",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-07-02",
@@ -1108,7 +1108,7 @@
       "id": "2024-07-03",
       "date": "2024-07-03",
       "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-07-04",
@@ -1150,13 +1150,13 @@
       "id": "2024-07-10",
       "date": "2024-07-10",
       "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-07-11",
       "date": "2024-07-11",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-07-12",
@@ -1198,13 +1198,13 @@
       "id": "2024-07-18",
       "date": "2024-07-18",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-07-19",
       "date": "2024-07-19",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-07-20",
@@ -1228,7 +1228,7 @@
       "id": "2024-07-23",
       "date": "2024-07-23",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-07-24",
@@ -1252,7 +1252,7 @@
       "id": "2024-07-27",
       "date": "2024-07-27",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-07-28",
@@ -1264,13 +1264,13 @@
       "id": "2024-07-29",
       "date": "2024-07-29",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-07-30",
       "date": "2024-07-30",
       "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-07-31",
@@ -1336,13 +1336,13 @@
       "id": "2024-08-10",
       "date": "2024-08-10",
       "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-08-11",
       "date": "2024-08-11",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-08-12",
@@ -1372,7 +1372,7 @@
       "id": "2024-08-16",
       "date": "2024-08-16",
       "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-08-17",
@@ -1390,7 +1390,7 @@
       "id": "2024-08-19",
       "date": "2024-08-19",
       "imageUrl": "https://images.unsplash.com/photo-1682686580391-615b1f28e5ee",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-08-20",
@@ -1402,19 +1402,19 @@
       "id": "2024-08-21",
       "date": "2024-08-21",
       "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-08-22",
       "date": "2024-08-22",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-08-23",
       "date": "2024-08-23",
       "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-08-24",
@@ -1438,13 +1438,13 @@
       "id": "2024-08-27",
       "date": "2024-08-27",
       "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-08-28",
       "date": "2024-08-28",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-08-29",
@@ -1480,7 +1480,7 @@
       "id": "2024-09-03",
       "date": "2024-09-03",
       "imageUrl": "https://images.unsplash.com/photo-1682686580391-615b1f28e5ee",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-09-04",
@@ -1498,19 +1498,19 @@
       "id": "2024-09-06",
       "date": "2024-09-06",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-09-07",
       "date": "2024-09-07",
       "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-09-08",
       "date": "2024-09-08",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-09-09",
@@ -1564,7 +1564,7 @@
       "id": "2024-09-17",
       "date": "2024-09-17",
       "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-09-18",
@@ -1588,7 +1588,7 @@
       "id": "2024-09-21",
       "date": "2024-09-21",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-09-22",
@@ -1606,7 +1606,7 @@
       "id": "2024-09-24",
       "date": "2024-09-24",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-09-25",
@@ -1618,7 +1618,7 @@
       "id": "2024-09-26",
       "date": "2024-09-26",
       "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-09-27",
@@ -1642,13 +1642,13 @@
       "id": "2024-09-30",
       "date": "2024-09-30",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-10-01",
       "date": "2024-10-01",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-10-02",
@@ -1696,13 +1696,13 @@
       "id": "2024-10-09",
       "date": "2024-10-09",
       "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-10-10",
       "date": "2024-10-10",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-10-11",
@@ -1720,7 +1720,7 @@
       "id": "2024-10-13",
       "date": "2024-10-13",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-10-14",
@@ -1750,13 +1750,13 @@
       "id": "2024-10-18",
       "date": "2024-10-18",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-10-19",
       "date": "2024-10-19",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-10-20",
@@ -1786,25 +1786,25 @@
       "id": "2024-10-24",
       "date": "2024-10-24",
       "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-10-25",
       "date": "2024-10-25",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-10-26",
       "date": "2024-10-26",
       "imageUrl": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-10-27",
       "date": "2024-10-27",
       "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-10-28",
@@ -1816,7 +1816,7 @@
       "id": "2024-10-29",
       "date": "2024-10-29",
       "imageUrl": "https://images.unsplash.com/photo-1540206395-68808572332f",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-10-30",
@@ -1828,7 +1828,7 @@
       "id": "2024-10-31",
       "date": "2024-10-31",
       "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-11-01",
@@ -1840,7 +1840,7 @@
       "id": "2024-11-02",
       "date": "2024-11-02",
       "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-11-03",
@@ -1882,7 +1882,7 @@
       "id": "2024-11-09",
       "date": "2024-11-09",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-11-10",
@@ -1900,7 +1900,7 @@
       "id": "2024-11-12",
       "date": "2024-11-12",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-11-13",
@@ -1948,133 +1948,133 @@
       "id": "2024-11-20",
       "date": "2024-11-20",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-11-21",
       "date": "2024-11-21",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-11-22",
       "date": "2024-11-22",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-11-23",
       "date": "2024-11-23",
       "imageUrl": "https://images.unsplash.com/photo-1540206395-68808572332f",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-11-24",
       "date": "2024-11-24",
       "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "周りの人々に感謝"
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-11-25",
       "date": "2024-11-25",
-      "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "自分らしく生きよう"
+      "imageUrl": "/public/img/sample1.JPG",
+      "message": "愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-11-26",
       "date": "2024-11-26",
-      "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "小さな幸せを見つけよう"
+      "imageUrl": "/public/img/sample2.JPG",
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-11-27",
       "date": "2024-11-27",
-      "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
-      "message": "今日も一日頑張ろう"
+      "imageUrl": "/public/img/sample3.JPG",
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-11-28",
       "date": "2024-11-28",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "素直な心で向き合おう"
+      "imageUrl": "/public/img/sample4.JPG",
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-11-29",
       "date": "2024-11-29",
-      "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-      "message": "一期一会を大切に"
+      "imageUrl": "/public/img/sample5.JPG",
+      "message": "この礼拝堂は、わが同志社の基礎となり、また、精神となる者なればなり"
     },
     {
       "id": "2024-11-30",
       "date": "2024-11-30",
-      "imageUrl": "https://images.unsplash.com/photo-1504198322253-cfa87a0ff25f",
-      "message": "一期一会を大切に"
+      "imageUrl": "/public/img/sample1.JPG",
+      "message": "人生の幸いは、己れ自ら幸福を得るにあらず。真道に歩み、身真道に委ね、真道を以て他人を益するにあり"
     },
     {
       "id": "2024-12-01",
       "date": "2024-12-01",
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-      "message": "周りの人々に感謝"
+      "imageUrl": "/public/img/sample2.JPG",
+      "message": "自由の精神を養成するは、恐らくは私塾に優らざるべし"
     },
     {
       "id": "2024-12-02",
       "date": "2024-12-02",
-      "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "周りの人々に感謝"
+      "imageUrl": "/public/img/sample3.JPG",
+      "message": "人の偉大さは学識だけでなく、私心のなさに現れる"
     },
     {
       "id": "2024-12-03",
       "date": "2024-12-03",
-      "imageUrl": "https://images.unsplash.com/photo-1540206395-68808572332f",
-      "message": "一歩一歩前進しよう"
+      "imageUrl": "/public/img/sample4.JPG",
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-12-04",
       "date": "2024-12-04",
-      "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86",
-      "message": "明日はきっといい日"
+      "imageUrl": "/public/img/sample5.JPG",
+      "message": "この道を伝えざれば、人これを聞くを得ず。聞くを得ざれば、人これを信ずるを得ず。信ぜざれば人救わるる事を得ず"
     },
     {
       "id": "2024-12-05",
       "date": "2024-12-05",
-      "imageUrl": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-      "message": "今を大切に生きる"
+      "imageUrl": "/public/img/sample1.JPG",
+      "message": "傷める葦を折ることなく、煙れる麻を熄すことなし　騶虞は折らずに生草の茎"
     },
     {
       "id": "2024-12-06",
       "date": "2024-12-06",
-      "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-      "message": "今を大切に生きる"
+      "imageUrl": "/public/img/sample2.JPG",
+      "message": "教育のごときは、基督教と分離すべからざるものにして、文明の車の両輪なり。"
     },
     {
       "id": "2024-12-07",
       "date": "2024-12-07",
-      "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "夢に向かって前進しよう"
+      "imageUrl": "/public/img/sample3.JPG",
+      "message": "愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-12-08",
       "date": "2024-12-08",
-      "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "明日への希望を持って"
+      "imageUrl": "/public/img/sample4.JPG",
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-12-09",
       "date": "2024-12-09",
-      "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "明日はきっといい日"
+      "imageUrl": "/public/img/sample5.JPG",
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-12-10",
       "date": "2024-12-10",
-      "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-      "message": "新たな可能性を信じて"
+      "imageUrl": "/public/img/sample1.JPG",
+      "message": "この暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。"
     },
     {
       "id": "2024-12-11",
       "date": "2024-12-11",
-      "imageUrl": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86",
-      "message": "素直な心で向き合おう"
+      "imageUrl": "/public/img/sample2.JPG",
+      "message": "人の偉大さは学識だけでなく、私心のなさに現れる"
     },
     {
       "id": "2024-12-12",
@@ -2086,13 +2086,13 @@
       "id": "2024-12-13",
       "date": "2024-12-13",
       "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-12-14",
       "date": "2024-12-14",
       "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-12-15",
@@ -2104,13 +2104,13 @@
       "id": "2024-12-16",
       "date": "2024-12-16",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-12-17",
       "date": "2024-12-17",
       "imageUrl": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-12-18",
@@ -2122,13 +2122,13 @@
       "id": "2024-12-19",
       "date": "2024-12-19",
       "imageUrl": "https://images.unsplash.com/photo-1491466424936-e304919aada7",
-      "message": "一歩一歩前進しよう"
+      "message": "山間の水流、漸々の働き、克く渓流を為す。時あり"
     },
     {
       "id": "2024-12-20",
       "date": "2024-12-20",
       "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9",
-      "message": "今日も一日頑張ろう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生を終わらんと欲するのみ。"
     },
     {
       "id": "2024-12-21",
@@ -2140,13 +2140,13 @@
       "id": "2024-12-22",
       "date": "2024-12-22",
       "imageUrl": "https://images.unsplash.com/photo-1540206395-68808572332f",
-      "message": "小さな幸せを見つけよう"
+      "message": "磨く前のダイヤモンドのようであれ。内に輝くものがあれば、荒削りの見かけは決して気にするな。"
     },
     {
       "id": "2024-12-23",
       "date": "2024-12-23",
       "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-      "message": "素直な心で向き合おう"
+      "message": "ただただ我が良心を真理に照準して使用し、天より賦与するところの力を竭くして一生をこの暗濁の塵寰をして真の安楽の境界とならしめんと欲す。これ襄平生の志願なり。終わらんと欲するのみ。"
     },
     {
       "id": "2024-12-24",
@@ -2176,7 +2176,7 @@
       "id": "2024-12-28",
       "date": "2024-12-28",
       "imageUrl": "https://images.unsplash.com/photo-1476820865390-c52aeebb9891",
-      "message": "自分らしく生きよう"
+      "message": "jpg愛は忍び、愛は許すものにして、柔弱無力のものに見ゆるも、天下何人か愛に敵するものぞ。"
     },
     {
       "id": "2024-12-29",
