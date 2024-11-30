@@ -1,8 +1,8 @@
-import React from 'react';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { CalendarDay } from '../types';
-import { isToday } from '../utils/dateUtils';
-import CountdownTimer from './CountdownTimer';
+import React from "react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
+import { CalendarDay } from "../types";
+import { isToday } from "../utils/dateUtils";
+import CountdownTimer from "./CountdownTimer";
 
 interface CalendarProps {
   currentDay?: CalendarDay;
@@ -11,11 +11,19 @@ interface CalendarProps {
   loading?: boolean;
 }
 
-const Calendar: React.FC<CalendarProps> = ({ 
-  currentDay, 
-  onPrevDay, 
+function isSameDate(date1: Date, date2: Date): boolean {
+  return (
+    date1.getFullYear() === date2.getFullYear() &&
+    date1.getMonth() === date2.getMonth() &&
+    date1.getDate() === date2.getDate()
+  );
+}
+
+const Calendar: React.FC<CalendarProps> = ({
+  currentDay,
+  onPrevDay,
   onNextDay,
-  loading = false 
+  loading = false,
 }) => {
   if (loading || !currentDay) {
     return (
@@ -25,8 +33,8 @@ const Calendar: React.FC<CalendarProps> = ({
     );
   }
 
-  const canGoNext = currentDay.date <= new Date();
-  
+  const canGoNext = !isSameDate(currentDay.date, new Date());
+
   return (
     <div className="fixed inset-0 bg-black">
       <div className="relative h-full">
@@ -39,13 +47,13 @@ const Calendar: React.FC<CalendarProps> = ({
           {/* Header */}
           <div className="absolute top-6 left-0 right-0 text-white text-center">
             <h2 className="text-4xl md:text-6xl font-bold mb-2">
-              {currentDay.date.toLocaleDateString('ja-JP', {
-                month: 'long',
-                day: 'numeric'
+              {currentDay.date.toLocaleDateString("ja-JP", {
+                month: "long",
+                day: "numeric",
               })}
             </h2>
             <p className="text-xl md:text-2xl">
-              {currentDay.date.toLocaleDateString('ja-JP', { weekday: 'long' })}
+              {currentDay.date.toLocaleDateString("ja-JP", { weekday: "long" })}
             </p>
             {isToday(currentDay.date) && (
               <span className="inline-block mt-2 px-4 py-1 bg-green-500 text-white rounded-full text-sm font-medium">
@@ -69,14 +77,12 @@ const Calendar: React.FC<CalendarProps> = ({
             >
               <ChevronLeft className="w-8 h-8 text-white" />
             </button>
-            
+
             <button
               onClick={onNextDay}
               disabled={!canGoNext}
               className={`p-3 rounded-full backdrop-blur-sm transition-colors ${
-                canGoNext 
-                  ? 'bg-white/10 hover:bg-white/20' 
-                  : 'opacity-50 cursor-not-allowed'
+                canGoNext ? "bg-white/10 hover:bg-white/20" : "hidden"
               }`}
             >
               <ChevronRight className="w-8 h-8 text-white" />
@@ -84,7 +90,7 @@ const Calendar: React.FC<CalendarProps> = ({
           </div>
         </div>
       </div>
-      
+
       <CountdownTimer />
     </div>
   );
