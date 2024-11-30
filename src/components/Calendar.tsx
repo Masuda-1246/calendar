@@ -3,6 +3,8 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { CalendarDay } from "../types";
 import { isToday } from "../utils/dateUtils";
 import CountdownTimer from "./CountdownTimer";
+import { messages } from "../data/data";
+import { images } from "../data/data";
 
 interface CalendarProps {
   currentDay?: CalendarDay;
@@ -34,12 +36,14 @@ const Calendar: React.FC<CalendarProps> = ({
   }
 
   const canGoNext = !isSameDate(currentDay.date, new Date());
+  const index_img = currentDay.date.getDay() % images.length;
+  const index_msg = currentDay.date.getDay() % messages.length;
 
   return (
     <div className="fixed inset-0 bg-black">
       <div className="relative h-full">
         <img
-          src={currentDay.imageUrl}
+          src={"/img/" + images[index_img]}
           alt="Daily"
           className="w-full h-full object-cover"
         />
@@ -65,7 +69,7 @@ const Calendar: React.FC<CalendarProps> = ({
           {/* Message - Moved higher up */}
           <div className="absolute top-1/2 left-0 right-0 -translate-y-1/2 text-white text-center px-6">
             <p className="text-xl md:text-3xl font-medium px-6 py-3 bg-black/30 rounded-lg backdrop-blur-sm inline-block">
-              {currentDay.message}
+              {messages[index_msg]}
             </p>
           </div>
 
