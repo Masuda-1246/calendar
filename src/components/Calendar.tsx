@@ -49,7 +49,7 @@ const Calendar: React.FC<CalendarProps> = ({
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-transparent to-black/60">
           {/* Header */}
-          <div className="absolute top-6 left-0 right-0 text-white text-center">
+          <div className="absolute top-24 left-0 right-0 text-white text-center">
             <h2 className="text-4xl md:text-6xl font-bold mb-2">
               {currentDay.date.toLocaleDateString("ja-JP", {
                 month: "long",
