@@ -27,6 +27,7 @@ const Calendar: React.FC<CalendarProps> = ({
   onNextDay,
   loading = false,
 }) => {
+  console.log(currentDay);
   if (loading || !currentDay) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-900">
@@ -36,8 +37,8 @@ const Calendar: React.FC<CalendarProps> = ({
   }
 
   const canGoNext = !isSameDate(currentDay.date, new Date());
-  const index_img = currentDay.date.getDay() % images.length;
-  const index_msg = currentDay.date.getDay() % messages.length;
+  const index_img = currentDay.id % images.length;
+  const index_msg = currentDay.id % messages.length;
 
   return (
     <div className="fixed inset-0 bg-black">
