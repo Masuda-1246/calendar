@@ -4,9 +4,7 @@ import { useCalendarData } from "./hooks/useCalendarData";
 
 function App() {
   const { loading, error } = useCalendarData();
-  const [days, setDays] = useState<
-    { id: number; date: Date; imageUrl: string; message: string }[]
-  >([]);
+  const [days, setDays] = useState<{ id: number; date: Date }[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
@@ -28,9 +26,6 @@ function App() {
         newDays.push({
           id: i,
           date: date,
-          imageUrl:
-            "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8",
-          message: "チャレンジする勇気を持とう",
         });
       }
 

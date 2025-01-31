@@ -6,7 +6,5 @@ export interface Event {
 
 export interface CalendarDay {
   date: Date;
-  imageUrl: string;
-  message: string;
   id: number;
 }
